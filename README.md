@@ -32,9 +32,19 @@ Our goal is to install a couchbase cluster with 2 nodes. Both nodes will be crea
 $ docker-compose -f docker-compose.yml up & 
  ```
 
-A new cluster will be created on below and then the 2nd node will be added to the cluster.
+A new cluster will be created on below and then the 2 nodes will be added to the cluster.
 
 ![Vertical](https://user-images.githubusercontent.com/22845579/116284591-ec382400-a795-11eb-8570-33474ecb6d6f.png)
+
+Adding the second node cluster
+
+![Vertical](https://user-images.githubusercontent.com/22845579/116288871-9ca82700-a79a-11eb-9a2d-dad8a46f812f.png)
+
+Performing balance transaction between nodes
+
+![Vertical](https://user-images.githubusercontent.com/22845579/116288693-708ca600-a79a-11eb-8374-76f5ee552049.png)
+
+
 
 
 # Reference
