@@ -4,6 +4,7 @@
 
 # Purpose
 
+Creating a distributed couchbase cluster consisting of 2 nodes
 
 Lab environment on below
 
