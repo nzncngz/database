@@ -1,6 +1,9 @@
 # Couchbase Docker Lab
 
-# CASE 1
+# CASE 1 
+
+# Purpose
+
 
 Lab environment on below
 
@@ -53,7 +56,9 @@ Performing balance transaction between nodes
 
 # CASE 2
 
+# Purpose
 
+Realization of the request, which receives the cluster information on the database, as a module with the python api
 
 # Reference
 
