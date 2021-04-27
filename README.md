@@ -40,6 +40,7 @@ Adding the second node cluster
 
 ![Vertical](https://user-images.githubusercontent.com/22845579/116288871-9ca82700-a79a-11eb-9a2d-dad8a46f812f.png)
 
+
 Performing balance transaction between nodes
 
 ![Vertical](https://user-images.githubusercontent.com/22845579/116288693-708ca600-a79a-11eb-8374-76f5ee552049.png)
