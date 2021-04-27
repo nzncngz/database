@@ -1,5 +1,7 @@
 # Couchbase Docker Lab
 
+# CASE 1
+
 Lab environment on below
 
 
@@ -45,6 +47,11 @@ Performing balance transaction between nodes
 
 ![Vertical](https://user-images.githubusercontent.com/22845579/116288693-708ca600-a79a-11eb-8374-76f5ee552049.png)
 
+
+
+
+
+# CASE 2
 
 
 
