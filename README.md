@@ -61,6 +61,18 @@ Performing balance transaction between nodes
 
 Realization of the request, which receives the cluster information on the database, as a module with the python api
 
+# Installation
+
+Login centos vm then run python script
+
+``` bat  
+$ python test.py
+ ```
+
+Result test.py on below
+
+
+
 # Reference
 
 https://docs.couchbase.com/server/current/rest-api/rest-views-get.html
