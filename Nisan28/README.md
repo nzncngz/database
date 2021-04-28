@@ -71,7 +71,8 @@ $ python test.py
 
 Result test.py on below
 
-![Vertical](https://github.com/nzncngz/database/blob/main/Nisan28/result_python_request.png)
+![Vertical](https://user-images.githubusercontent.com/22845579/116431205-3bdb2600-a850-11eb-8347-79a48c5a86c5.png)
+
 
 # Reference
 
