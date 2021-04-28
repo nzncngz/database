@@ -72,7 +72,7 @@ $ python test.py
 
 Result test.py on below
 
-![Vertical](/home/nzn/Pictures/step13.png)
+![Vertical](https://github.com/nzncngz/database/blob/main/Nisan28/result_python_request.png)
 
 # Reference
 
