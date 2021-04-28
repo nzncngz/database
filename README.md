@@ -63,9 +63,10 @@ Realization of the request, which receives the cluster information on the databa
 
 # Installation
 
-Login centos vm then run python script
+Login centos vm then run python script with vagrant
 
-``` bat  
+``` bat
+$ sudo usermod -aG docker vagrant
 $ python test.py
  ```
 
