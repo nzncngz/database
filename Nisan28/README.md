@@ -72,9 +72,7 @@ $ python test.py
 
 Result test.py on below
 
-
-
-
+![Vertical](/home/nzn/Pictures/step13.png)
 
 # Reference
 
