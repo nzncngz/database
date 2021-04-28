@@ -35,7 +35,7 @@ $ cd database; vagrant up &
 Our goal is to install a couchbase cluster with 2 nodes. Both nodes will be created as containers via docker compose.
 
 ``` bat  
-$ docker-compose -f docker-compose.yml up & 
+$ sudo usermod -aG docker vagrant; docker-compose -f docker-compose.yml up & 
  ```
 
 A new cluster will be created on below and then the 2 nodes will be added to the cluster.
@@ -66,7 +66,6 @@ Realization of the request, which receives the cluster information on the databa
 Login centos vm then run python script with vagrant
 
 ``` bat
-$ sudo usermod -aG docker vagrant
 $ python test.py
  ```
 
